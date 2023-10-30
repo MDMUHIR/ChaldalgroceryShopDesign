@@ -1,0 +1,200 @@
+@media all and (max-width : 1209px) {
+    .love-chaldal .mainTile .tile .tileText {
+        height: 100%;
+    }
+    .love-chaldal .mainTile .tile .tileText h3 {
+        margin-bottom: 0;
+        margin-top: 10px;
+    }
+    .love-chaldal .mainTile .tile .tileText p {
+        padding-top: 5px;
+        font-size: 16px;
+
+    }
+    .feedback .mainTile .slide .carousel-inner .profile .proImg {
+        width: 100%;
+        display: block;
+    }
+    .feedback .mainTile .slide .carousel-inner .profile .comment-box {
+        width: 95%;
+        display: block;
+        margin: auto;
+        
+    }
+}
+
+    
+
+@media all and (max-width : 990px) {
+    .headerTop .middle-part{
+       width: 100%;   
+       padding-right: 285px;
+    }
+    .headerTop .right-part {
+        width: 259px;
+
+    }
+    .headerTop .help {
+        display: none;
+    }
+    .headerTop .language {
+        display: none;
+    }
+    .products .mainTile a .categoryBox{
+        width: 48%;
+    }
+    .love-chaldal .mainTile .tile {
+        width: 98%;
+        margin: 1%;
+    }
+    .love-chaldal .mainTile .tile .tileText h3 {
+        margin-bottom: 10px;
+        margin-top: 20px;
+
+    }
+    .love-chaldal .mainTile .tile .tileText p {
+        padding-top: 0;
+        font-size: 18px;
+
+    }
+    .offer-slider .item {
+        margin-left: 120px;
+    }
+    .map .mapimg img {
+        width: 250px;
+    }
+    .map .infotext .section {
+        margin-top: 5px;
+    }
+    .map .infotext .mainTile h1 {
+        font-size: 35px;
+        font-weight: 700;
+    }
+    .map .infotext .section .title {
+        font-size: 30px;
+    }
+    .map .infotext .section .info {
+        font-size: 35px;
+    }
+    .footer-banner .leftarea {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .footer-banner .rightarea {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+
+    
+}
+@media all and (max-width : 767px) {
+    .headerTop {
+        border-bottom: 0;
+    }
+    .headerTop .middle-part{
+       width: 100%;
+       padding-left: 50px;
+       padding-right: 60px;
+        
+    }
+    .headerTop .right-part {
+        display: none;
+    }
+    .headerTop .left-part {
+        max-width: 45px;
+        position: fixed;
+    }
+    .headerTop .logo img {
+        display: none;
+    }
+    .headerTop .bigArea {
+        display: block;
+    }
+    .menu {
+        top: 90px;
+        display: none;
+    }
+    .bodytable {
+        padding-left: 0;
+    }
+    .bodytable .landingBanner .searchArea h1 {
+        font-size: 24px;
+    }
+    .landingBanner .searchArea .subArea {
+        width: 300px;
+    }
+    .discount-offers .offer-1 {
+        width: 95%;
+        margin: auto;
+        float: none;
+    }
+    .discount-offers .offer-2 {
+        width: 95%;
+        margin: 5px auto;
+        float: none;;
+    }
+    .products .mainTile a .categoryBox{
+        width: 99%;
+        
+    }
+    .love-chaldal .mainTile .tile .tileText {
+        height: 35%;
+    }
+    .offer-slider .item {
+        margin-left: 80px;
+    }
+    .chaldalApp .chaldalApp-content {
+        width: 100%;
+    }
+    .chaldalApp .image-part {
+        width: 50%;
+        text-align: center;
+    }
+    .footer-left {
+        width: 100%;
+        height: auto;
+        
+    }
+    .footer-left .left-top {
+        text-align: center;
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .footer-left .left-top .logo {
+        margin: auto;
+    }
+    .footer-left .left-bottom {
+        text-align: center;
+        display: block;
+        margin: 0;
+    }
+    .footer-left .left-bottom ul{
+        width: 100%;
+        text-align: center;
+        padding: 0;
+        margin: 15px 0;
+    }
+    .footer-left .left-bottom ul li {
+        width: 100%;
+        text-align: center;
+    }
+    .footer-left .left-bottom ul #heading {
+        width: 100%;
+        text-align: center;
+    }
+    .footer-right {
+        width: 100%;
+        
+    }
+}
+@media all and (max-width : 569px) {
+    .map .mapimg {
+        width: 100%;
+    }
+    .map .infotext {
+        width: 100%;
+    }
+}
